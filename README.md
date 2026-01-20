@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Ibn+Sina;GitHub:+ibnsina-92;Bot+Developer+%7C+Automation;Glassmorphism+%26+Motion+UI;Always+Building+Cool+Things" />
 </p><!-- Glassmorphism Divider --><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00f7ff&height=120&section=header&text=Welcome%20to%20My%20Profile&fontSize=26&fontColor=ffffff&animation=fadeIn"/>---
 
-🧊 About Me (Glass Theme)
+🧊 About me :
 
 👤 Name        : Ibn Sina
 🔖 Username    : ibnsina-92
@@ -12,13 +12,14 @@
 🎯 Focus       : WhatsApp Bots, Backend, UI Motion
 🧠 Mindset     : Clean Code | Smart Logic | Continuous Growth
 
----
 
-⚙️ Tech Stack (Animated Glass Icons)
+
+⚙️ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode&theme=dark" />
 </p>---
+
 
 🤖 Featured Projects
 
@@ -37,9 +38,8 @@
 
 🚧 More elite projects coming soon...
 
----
 
-📊 GitHub Stats (Live & Animated)
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibnsina-92&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7f00ff" height="165"/>
@@ -48,23 +48,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnsina-92&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>---
 
-🏆 GitHub Trophies (Glass Neon)
+🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ibnsina-92&theme=discord&no-frame=true&row=1&margin-w=15"/>
 </p>---
 
-🌌 Contribution Activity Graph
+🌌 My Contribution 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibnsina-92&bg_color=0d1117&color=00f7ff&line=7f00ff&point=ffffff&hide_border=true"/>
 </p>---
 
-⚡ Snake Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ibnsina-92/ibnsina-92/output/github-contribution-grid-snake.svg" />
-</p>---
 
 🤝 Connect & Support
 
