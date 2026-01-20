@@ -77,3 +77,15 @@
 </p><!-- Animated Footer --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:7f00ff&height=120&section=footer&animation=twinkling"/><p align="center">
   <i>“Build smart. Design clean. Automate everything.”</i>
 </p>
+
+📬 Contact Me
+
+<p align="center">
+  <a href="https://wa.me/923197521621" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>  <a href="https://instagram.com/ak47.id_143" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p><p align="center">
+  💬 Open for collaboration • 🤖 Bot projects • ⚡ Automation
+</p>
