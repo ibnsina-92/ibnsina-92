@@ -78,14 +78,18 @@
   <i>“Build smart. Design clean. Automate everything.”</i>
 </p>
 
-📬 Contact Me
+📬 Connect With Me
 
-<p align="center">
-  <a href="https://wa.me/923197521621" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>  <a href="https://instagram.com/ak47.id_143" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<!-- Neon Glass Panel --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:00f7ff,100:7f00ff&text=CONTACT%20PANEL&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+</p><br/><p align="center"><!-- WhatsApp Glass Button (Animated GIF Style) --><a href="https://wa.me/923197521621" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
+</a>   
+
+<!-- Instagram Glass Button (Animated GIF Style) --><a href="https://instagram.com/ak47.id_143" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-ak47.id__143-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+</a></p><br/><!-- Neon Glow Divider --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:7f00ff,100:00f7ff&section=footer&animation=twinkling"/>
 </p><p align="center">
-  💬 Open for collaboration • 🤖 Bot projects • ⚡ Automation
+  <i>💬 Open for collaboration • 🤖 Bot development • ⚡ Automation</i>
 </p>
