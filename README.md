@@ -77,7 +77,7 @@
 
 <!-- Neon Glass Panel --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:00f7ff,100:7f00ff&text=CONTACT%20PANEL&fontSize=22&fontColor=ffffff&animation=fadeIn" />
-</p><br/><p align="center"><!-- WhatsApp Glass Button (Animated GIF Style) --><a href="https://wa.me/923197521621" target="_blank">
+</p><br/><p align="center"><!-- WhatsApp Glass Button (Animated GIF Style) --><a href="https://wa.me/923197521621?text=Assalam-o-Alaikum%20❤️🌸%0A➺˻%20I%20B%20N%20%20·%20%20S%20I%20N%20A%20⸼˺%20💐" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" />
 </a>   
 
